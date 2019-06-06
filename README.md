@@ -1,2 +1,2 @@
 # hello-world
-The traditional 'first program'
+Follwed the instructions to create this repository
